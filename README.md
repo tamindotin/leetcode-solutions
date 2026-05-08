@@ -4,4 +4,4 @@
 
 | # | Problem | Solution | Difficulty | Topics |
 |---|---------|----------|------------|--------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Solution](./Arrays/LC%20001/) | Easy | Array, Brute Force
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Solution](./Arrays/LC0001/) | Easy | Array, Brute Force
