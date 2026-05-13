@@ -10,3 +10,4 @@
 | 034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | [Solution](./Arrays/LC034/Solution.java) | 🟡 Medium | Array, Binary Search |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) | [Solution](./Arrays/LC875/Solution.java) | 🟡 Medium | Array, Binary Search |
 | 035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [Solution](./Arrays/LC035/Solution.java) | 🟢 Easy | Array, Binary Search |
+| 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [Solution](./Arrays/LC852/Solution.java) | 🟡 Medium | Array, Binary Search |
